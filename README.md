@@ -4,7 +4,7 @@ It's purpose is to change the look of Ubuntu to be darker during night ours, in 
 Add a reference to this script in your Home/.bashrc file to access the goBright and goDark functions from the terminal.
 
 
-**IMPORTANT**
+**IMPORTANT:**
 By default, the scripts changes your system theme to either Arc or Arc-dark, which are two beautiful themes you can find at https://github.com/horst3180/arc-theme. If you wish to use other themes, you just have to change the content of the two variables (DARK, BRIGHT) declared in the first lines of the scripts.
 
 I personally recommend to set this script to run at startup in order to make it automatically change your theme when you log in.
